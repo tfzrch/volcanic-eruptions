@@ -1,3 +1,19 @@
+# Linux
+*~
+.Trash-*
+.nfs*
+
+# macos
+.DS_Store
+
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+
 # Temporary ignores
 environment.yml
 
