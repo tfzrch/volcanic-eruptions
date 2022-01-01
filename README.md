@@ -21,3 +21,6 @@ than 1,500 volcanoes with eruptions during the Holocene period (approximately
 the last 10,000 years) or exhibiting current unrest.
 
 ## About
+
+This is an ongoing, predominantly exploratory analysis project using a Kaggle 
+dataset.
